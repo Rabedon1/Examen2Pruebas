@@ -13,5 +13,10 @@
         "codigo": 3,
         "descripcion": "sandia",
         "precio": 31
+    },
+    {
+        "codigo": 0,
+        "descripcion": "prueba",
+        "precio": 4
     }
 ]
